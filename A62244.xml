@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Additionall answer to a pamphlet called A remonstrance, written by Mr. George Lilburne, or to so much of it as concernes Thomas Saunders, Esquire</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62244</idno>
+            <idno type="STC">Wing S757A</idno>
+            <idno type="STC">ESTC R7017</idno>
+            <idno type="EEBO-CITATION">13708789</idno>
+            <idno type="OCLC">ocm 13708789</idno>
+            <idno type="VID">101516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Additionall answer to a pamphlet called A remonstrance, written by Mr. George Lilburne, or to so much of it as concernes Thomas Saunders, Esquire</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and probable date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, George. --  Remonstrance.</term>
+               <term>Saunders, Thomas, --  Esquire.</term>
+               <term>Real property --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101516:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>An additionall Anſwer to a Pamphlet called <hi>A Remonſtrance,</hi> written by Mr. <hi>George Lilburne,</hi> or to ſo much of it as concernes <hi>Thomas Saunders;</hi> Eſquire.</head>
+            <p>
+               <seg rend="decorInit">A</seg>ND to ſo much of the Remonſtrance of <hi>George Lilburne</hi> (ſtiling himſelfe Eſquire, though it would puzzle a Herald to make it appeare) as concernes <hi>Thomas Saunders,</hi> who (being <hi>Fa<g ref="char:EOLhyphen"/>miliae Equeſtris</hi> on both ſides for deſcents not a few, but <hi>Genus &amp; proavos &amp; quae non feci<g ref="char:EOLhyphen"/>mus ipſi vix ea noſtra voco-</hi>) may chalenge to the like. I the ſaid <hi>Thomas</hi> affirm and ſay<g ref="char:punc">▪</g> That Mr <hi>Lilburne</hi> hath not dealt with me as a Gentleman, who being by my late employment his equall, and he by his iterated profeſſions my friend, confirm'd again by a late viſit at my houſe, where eating of my broth he (to borrow an old homely, but true proverb) now piſſeth many diſh, and aſperſeth me, (as maliciouſly, ſo untruly) for confederating with Mr <hi>Blaxton</hi> and M<hi rend="sup">r</hi> 
+               <hi>Colſton</hi> (both whom it is not unknowne he mortally loves) to cheat the State of above one thouſand pounds. And (to that end) the hand of one M<hi rend="sup">r</hi>. <hi>John Duncalfe</hi> (ſaith her) was counter feited (to chalenge me in perſon, he neither can nor dares, and therefore <hi>Doloſe verſatur in generalibus)</hi> to a three<g ref="char:EOLhyphen"/>handed Certificate, to make the Act valid. But to the particulars (or to ſo much as concernes me) I might ſay and anſwer, as once S<hi rend="sup">r</hi> 
+               <hi>John Salisbury</hi> did, to a voluminous and ſcandalous Bill in Star-chamber, That there was nothing therein to bee found true, ſaving onely his Defendants name. I ſay, it is true, that M<hi rend="sup">r</hi> 
+               <hi>Lilburne,</hi> my ſelfe, and others, ſu veyed the men<g ref="char:EOLhyphen"/>tioned Lands and Woods of <hi>Frankland.</hi> As true that we called (and impaneled too if he pleaſe) a Jury (ſome of them per<g ref="char:EOLhyphen"/>haps wiſer then our ſelves) of 15 men for our Aſſiſtants. But that they with us, ſurveyed the ſame upon Oath, who at any one time were never together with us on the ſaid grounds, or examined all Writing and Records concerning the Mannor, (as he affirms) is nothing true. And M<hi rend="sup">r</hi> 
+               <hi>Lilburne</hi> forgets that it is the part of Surveyors (of which every man ſo caded is not capable) to examine Writings and Records, and make Returnes (proper) and not of Jurors, who are uſually men of an inferiour underſtanding and alloy To Miſtreſle <hi>Blaxtons</hi> (as followes in his paper) comming to M<hi rend="sup">r</hi> 
+               <hi>Lilburn</hi> in her haſ<g ref="char:EOLhyphen"/>bands name, and that by his means (deſiring his favour) (obſerve onely his, and that here was a particular application though not a confederacy) that a Right for <hi>Howsboot, Free-boot</hi> (he means <hi>Fireboot</hi> ſurely) might be returned as belong<g ref="char:EOLhyphen"/>ing to the Mannor of <hi>Newton,</hi> for which no Evidence or Writing was (for the preſent) produced, and his anſwer there<g ref="char:EOLhyphen"/>to in the plurall, that we (meaning the Surveyors) could doe no ſuch unjuſt act. M<hi rend="sup">r</hi> 
+               <hi>Lilburne</hi> may remember, that <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aches were then made, and examinations taken, and that ſome of the July did aver they had lately ſeen ſuch a Deed, and wherof uſe and fruit had been made and taken, for many years, to their own knowledge. And I beleeve M<hi rend="sup">r</hi> 
+               <hi>Lilburne</hi> would be loath to loſe his rights, becauſe he may (poſſibly ſince theſe times) have loſt his evidences. And he may further remember, that ſome bo then refuſed, for his rigidity in this and ſome other particulars (M<hi rend="sup">r</hi> 
+               <hi>Lilburnes</hi> old love to the parties whom it concerned) to ſet his hand to the whole Survey, although hee might not untruly ſay, <hi>Hos ego verſiculos feci, tulit alter honores.</hi> That Mi<g ref="char:EOLhyphen"/>ſtreſſe <hi>Blaxton</hi> gave many upbraiding ſpeeches to the reſt of the Surveyors, is nothing ſo (there was no cauſe) or to M<hi rend="sup">r</hi> 
+               <hi>Lil<g ref="char:EOLhyphen"/>burne</hi> himſelf that I remember. But this I remember, (and bluſhed for his ſake) that he then ſhewed himſelfe to bee rather the more woman of the two. As to the cheating of the State of above one thouſand pounds by confederacy with M<hi rend="sup">r</hi> 
+               <hi>Colſton</hi> and M<hi rend="sup">r</hi> 
+               <hi>Blaxton,</hi> with the laſt of whom to my knowledge) I had never exchanged ſyllable til long after the ſaid Survey was returned, and till after the re-ſurvey and the quarrelled defalcations were like wiſe returned; I ſay (and M<hi rend="sup">r</hi> 
+               <hi>Lilburne</hi> knowes but wilfully ſuppreſſes it) that orders were ſent to the Surveyors, commanding them to make and return whatſoever repri<g ref="char:EOLhyphen"/>ſals were due and iſſuing forth the ſaidlands, and to make up and return with all ſpeed, ſurveys of other lands not formerly perfected. And he knowes it will be proved to his face, That he was earneſtly invited by M<hi rend="sup">r</hi> 
+               <hi>Colſton</hi> and my ſelfe, further to act in and by the ſame Commiſſion with us taken, in diſcharge of his duty to the publick, as a Surveyor, which he utterly refuſed to do, for very feare, the Countrey then being full of troubles, and he not daring openly to adventure his ſo much (without any rivall) beloved perſon. As to the Defalcations themſelves, I willingly refer me to the Records, where it will appeare that M<hi rend="sup">r</hi> 
+               <hi>Lilburne</hi> himſelfe was guilty in returning of about 60. l. <hi>per annum</hi> Eſtates due by two ſeverall patents for life, iſſuing forth of the ſaid lands (wherof one indeed of 42. l. 17. s. <hi>per annum,</hi> is his very friends. Others doubtleſſe were returned on as ſolid grounds, <hi>viz.</hi> the late Biſhops Covenant <hi>per Indenture,</hi> to allow timber and wood for the repair and up<g ref="char:EOLhyphen"/>holding of ſeveral Collieries &amp; Mils during their leaſes. And theſe being all but for ſhort continuance (though moſt juſtly to be allowed) will not amount to near the pretended ſumme. For the reſidue, allowed to the repairs of high-wayes, and of ſeverall bridges upon two navigable riv<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, it amounts to 35. l. <hi>per annum,</hi> which at 10. years purchaſe is eaſily computed. Neither is there ought of this allowed, but upon proofs made by oathes, or cuſtome known to all. And all this upon ſuppoſi<g ref="char:EOLhyphen"/>tion. <hi>viz.</hi> if theſe allowances are to be made out of <hi>Frankland</hi> wood (as we know none other woods of the late Biſhops now remaining and being fit for the ſaid uſes in all that part of the Countrey) but I referre, as I ſaid, to the Records themſelves, and am confident (and not without good grounds which I ſuppoſe by this time are well known) that M<hi rend="sup">r</hi> 
+               <hi>Blaxton,</hi> though the Defalcations be allowed to him, will willingly quit his Contract, &amp; be contented that M<hi rend="sup">r</hi> 
+               <hi>Lilburn</hi> ſhall have the bargain; provided he will prove a better chapman for the State. See then the confederacy and cheat (by which ſure I am, I am no<g ref="char:EOLhyphen"/>thing enriched) of above <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>000, l. and that malice ſeldome, if ever, ſpeakes truth. But my charity compels mee to hope (though ſome men doubt) that M<hi rend="sup">r</hi> 
+               <hi>George Lilburne</hi> will in no wiſe cheat the State of greater ſummes, which hee as a Se<g ref="char:EOLhyphen"/>queſtrator (or Farmer to ſequeſtrations by himſelfe of his inſtruments) is thought to be accomptant for. As to the counter<g ref="char:EOLhyphen"/>feiting or putting to Mr. <hi>Duncalfes</hi> hand to a Certificate, (although it concernes not me who did it not, yet) I ſhall un<g ref="char:EOLhyphen"/>fold that Riddle alſo for truths ſake; It is true that Mr. <hi>Duncalfe</hi> was not then preſent, but 50. miles diſtant upon other buſineſſe of the State, when that Certificate was returned, but that his hand or name was thereto put by the command of one of his fellow-ſurveyors, to whom he gave power ſo to doe, that the return might be made valid by having three hands thereto: Mr. <hi>Duncalfe</hi> hath often ſince averred, and approved of the return made, and hath (I think) lately given under his own hand, thereof an atteſtation. But if to ſet his brother-Surveyors hand being abſent, (and not without his conſent) to a Survey to make the ſame valid, be a crime, Mr <hi>Lilburn</hi> hath in his own knowledge (and others too) been ſhamefully abuſed (but I hope no cheat to the State) that hath had his hand and ſeale put to whole Surveyes at which he never was, or at the moſt and beſt for a day or two, and that principally, to adorn a charge<note place="margin">
+                  <add>Chayre</add>
+               </note>. And I will be bold to averre and prove, that Mr. <hi>Lilburne</hi> hath not for an 120. l. received of the State, done them the ſervice of 40 dayes (I may well abate ten of the number) upon all their ſurveyes of Lands or Collieries, in which latter only, (and not without his own end) he is ſuſpected to have good skill; and good reaſon, for once he was a Cole-filler himſelfe, but now a Cole-owner. But I hope this is not in him to cheat <hi>(abſit)</hi> but to do very good and dear ſervice to the State. You ſee <q>
+                  <hi>Longiori opus eſt morâ queſtionem ut ſol<g ref="char:EOLhyphen"/>vas quam ut proponas.</hi>
+               </q> And that had it not been to anſwer M. <hi>Lilburn</hi> in his — (leſt he ſhould grow wiſe in his owne <gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nceit) I ſhould hardly have been induced to be as himſelfe is, a — in print.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
